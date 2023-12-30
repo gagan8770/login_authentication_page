@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif; 
+    margin: 0;
+    padding: 0;
+    background: rgb(69, 69, 149);
+    background: linear-gradient(90deg, rgb(57, 67, 128) 0%, rgb(32, 158, 187) 44%, rgb(2, 54, 48) 100%, rgba(8, 243, 200, 0.818) 100%);
+    background-size: cover;
+    height: fit-content;
+    
+    
+}
+header {
+    background: rgb(69, 69, 149);
+    background: linear-gradient(90deg, rgb(57, 67, 128) 0%, rgb(32, 158, 187) 44%, rgb(2, 54, 48) 100%, rgba(8, 243, 200, 0.818) 100%);
+    color: white;
+    padding: 10px 0;
+    box-shadow: 5px 5px 5px rgb(142, 142, 142); 
+    align-content: center;
+    justify-content: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 13%;
+    backdrop-filter: blur(9.5px);               
+    -webkit-backdrop-filter: blur(9.5px);
+    border: 7px solid rgba(0, 0, 0, 0.675);
+    padding: 20px;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    
+}
+h2{
+    justify-content: center;
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 0%;
+    padding-top: 0%;
+    padding-bottom: 4%;
+}
+h6{
+    justify-content: center;
+    text-align: center;
+    margin-top: 0%;
+}
+.user{
+    width: 70%;
+    justify-content: center;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 15%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+.but{
+    justify-content: center;
+    text-align: right;
+    margin-left: 16%;
+}
+.login{
+    justify-content: center;
+    text-align: center;
+    margin-left: 16%;
+    width: 71%; 
+    margin-top: 15%;
+    margin-bottom: 0%;
+    padding: auto;
+    background: linear-gradient(90deg, rgb(57, 67, 128) 0%, rgb(32, 158, 187) 44%, rgb(2, 54, 48) 100%, rgba(8, 243, 200, 0.818) 100%);
+    color: white;
+    padding: 10px ;
+    padding-bottom: 1%;
+    border: 1px solid black;
+
+}
